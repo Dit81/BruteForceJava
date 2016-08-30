@@ -1,4 +1,6 @@
-import java.io.IOException;
+/*
+ * Brute force password cracker Java
+ */
 import java.util.Random;
 
 
